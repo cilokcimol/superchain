@@ -1,1 +1,3 @@
-# superchain
+2024 has been a year of collaboration, innovation, and meaningful engagement within the Superchain ecosystem. As a "Collaborative Builder," I've actively worked toward shared goals with the community, contributing to collective growth while maximizing efficiency. My Rewind Stats showcase 972 transactions, 11.1K gas saved, and a consistent 7-day streak, highlighting my commitment to sustainable and impactful blockchain usage.
+
+Top chains like Base, OP Mainnet, and Zora have been my primary focus, while dApps such as Layer3, Hana Network, and L1.Fi have fueled my journey toward achieving on-chain excellence. This journey reflects my dedication to creating, connecting, and thriving in a decentralized ecosystem.
